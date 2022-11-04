@@ -1,0 +1,6 @@
+alias l='ls -f'
+alias la='ls -a -f'
+alias lah='ls -la -lh -f'
+alias ..='cd ..'
+alias ~~='cd ~'
+alias cl='clear'
